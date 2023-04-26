@@ -1,0 +1,1 @@
+Notebooks criados para gerar resultados para os seminários da disciplina de planejamento energético do Programa de Pós-graduação em Engenharia Elétrica da Universidade Federal do Pará.
