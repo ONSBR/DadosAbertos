@@ -2,7 +2,7 @@
 # DadosAbertos
 
 Repositório colaborativo para criação de soluções pela sociedade.
-Todos os notebooks a serem desenvolvidos e compartilhados devem utilizar pelo menos um dos conjuntos de dados disponíveis no [Portal de Dados Abertos do ONS](dados.ons.org.br).
+Todos os notebooks a serem desenvolvidos e compartilhados devem utilizar pelo menos um dos conjuntos de dados disponíveis no [Portal de Dados Abertos do ONS](https://dados.ons.org.br/dataset/).
 
 Os notebook estão divididos entre os seguintes tópicos:
 
